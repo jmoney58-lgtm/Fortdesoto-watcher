@@ -1,0 +1,14 @@
+{
+  "name": "fortdesoto-watcher",
+  "version": "1.0.0",
+  "description": "Fort De Soto campsite watcher",
+  "main": "monitor_rec1.js",
+  "scripts": {
+    "start": "node monitor_rec1.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  }
+}
